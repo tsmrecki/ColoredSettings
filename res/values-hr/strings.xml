@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColoredSettings</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="capturetext">Uhvati postavke</string>
+    <string name="red">Crvena</string>
+    <string name="blue">Plava</string>
+    <string name="green">Zelena</string>
+    <string name="yellow">Žuta</string>
+    <string name="black">Crna</string>
+    <string name="cards">Postavke</string>
+    <string name="torch">Bljeskalica</string>
+    <string name="white">Bijela</string>
+
+</resources>

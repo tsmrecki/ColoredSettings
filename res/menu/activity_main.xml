@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" android:numericShortcut="3" android:title="@string/menu_settings">
+        <menu>
+            <item android:id="@+id/item2" android:numericShortcut="5" android:title="@+string/red" />
+            <item android:id="@+id/item3" android:numericShortcut="6" android:title="@+string/blue" />
+            <item android:id="@+id/item4" android:title="@string/green" android:numericShortcut="7" />
+            <item android:id="@+id/item5" android:numericShortcut="8" android:title="@string/yellow" />
+            <item android:id="@+id/item6" android:numericShortcut="9" android:title="@string/black" />
+            <item android:id="@+id/item7" android:numericShortcut="4" android:title="@string/white"/>
+        </menu>
+    </item><item android:id="@+id/flash" android:title="@string/torch" android:numericShortcut="2"></item>
+    
+
+</menu>
